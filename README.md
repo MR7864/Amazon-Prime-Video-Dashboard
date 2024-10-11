@@ -84,7 +84,7 @@ Start Date: 1920
 
 End Date: 2021
 
-**Here are some key questions that the dashboard answers:**
+**6. Here are some key questions that the dashboard answers:**
 
 What is the distribution of ratings for shows on Prime Video?
 
@@ -98,5 +98,5 @@ What are the total counts for titles, ratings, genres, and directors in the Prim
 
 What years does the Prime Video library cover?
 
-**Conclusion**
+**7. Conclusion**
 This dashboard provides valuable insights into Prime Video's content library, highlighting trends in ratings, genres, and release years. It's a useful tool for understanding the composition and evolution of Prime Video's offerings over time.

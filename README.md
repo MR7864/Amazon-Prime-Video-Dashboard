@@ -53,10 +53,15 @@ End Date: 2021
 **Here are some key questions that the dashboard answers:**
 
 What is the distribution of ratings for shows on Prime Video?
+
 How has the number of shows released on Prime Video changed over the years, from 1920 to 2021?
+
 Which genres have the highest number of shows on Prime Video?
+
 What is the proportion of movies to TV shows in the Prime Video library?
+
 What are the total counts for titles, ratings, genres, and directors in the Prime Video collection?
+
 What years does the Prime Video library cover?
 
 **Conclusion**
